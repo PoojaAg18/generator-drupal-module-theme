@@ -1,0 +1,14 @@
+name = <%= theme_name %>
+description = <%= theme_desc %>
+core = 7.x
+
+;-------------------- C S S -----------------------
+; All other styles will be placed in the styles
+; file. This will include styles for layout, page
+; elements, features and print overrides.
+
+stylesheets[all][] = css/style.css
+
+;--------------------- J S ------------------------
+
+scripts[] = js/<%= theme_name %>.js

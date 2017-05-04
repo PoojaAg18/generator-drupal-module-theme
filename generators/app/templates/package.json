@@ -1,0 +1,28 @@
+{
+  "name": "generator-drupal-module-theme",
+  "version": "0.1.0",
+  "description": "Drupal Custom module and Custom theme skeleton with basic code for webapp development Integrated with JSHint, sprite image, minification and concatenation and Grunt.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.1.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-spritesmith": "^2.20.0",
+    "jshint-stylish": "^2.2.1",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}

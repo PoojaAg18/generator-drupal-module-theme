@@ -1,0 +1,14 @@
+{
+  "name": "generator-drupal-module-theme",
+  "version": "0.1.0",
+  "description": "Drupal basic skeleton for webapp development. With RequireJS, Bootstrap. Also with JSHint,Js and CSS minification.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "pooja/generator-drupal-module-theme",
+  "author": {},
+  "dependencies": {
+    "requirejs": "~2.1.20",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
