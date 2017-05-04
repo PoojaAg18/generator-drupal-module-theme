@@ -1,0 +1,13 @@
+[{
+	"name": "RequireJS",
+	"url": "http://requirejs.org/"
+}, {
+	"name": "Jquery",
+	"url": "https://jquery.com/"
+}, {
+	"name": "Bootstrap",
+	"url": "http://getbootstrap.com/"
+}, {
+	"name": "Grunt",
+	"url": "http://gruntjs.com/"
+}]
