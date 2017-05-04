@@ -1,7 +1,7 @@
 ![Drupal YEOMAN][drupal-yeomen-image]
 
 # generator-drupal-module-theme
-> Drupal Custom Module and Custom Theme Generator integrated with options of grunt optimization tasks(jshint, minification, concatenation, sprite-image creation,image minification)
+> Drupal Custom Module and Custom Theme Generator integrated with options of grunt optimization tasks(jshint, minification, concatenation, sprite-image creation)
 
 > Fast and easy way to setup a module scaffolding with the most important files and functions you need to start developing.
 
@@ -70,5 +70,3 @@ Additionally, grunt folder will be installed with all the tasks files to make an
                 
 
 [drupal-yeomen-image]: https://blogpost.pp.ua/sites/default/files/post/images/drupal_yeoman.png
-[npm-image]: https://badge.fury.io/js/generator-dmodule.svg
-[npm-url]: https://npmjs.org/package/generator-drupal-module-theme
