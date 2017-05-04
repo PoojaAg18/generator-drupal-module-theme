@@ -26,15 +26,15 @@ And then go to your sites/all path of your site folder and run -
 yo drupal-module-theme
 ```
 And answer the below questions to get started -
-? Would you like to add Custom Theme? 
-? Which Drupal version? Drupal 7
-? Name your Child theme:
-? Describe your Child theme:
-? Would you like to add Custom Module?
-? what is your module Name?
-? Describe your custom module:
-? Would you like to add install file?
-? Would you like to add some hooks? hook_permission, hook_menu, hook_theme, hook_block_[info|view|configure]
+* Would you like to add Custom Theme? 
+* Which Drupal version? Drupal 7
+* Name your Child theme:
+* Describe your Child theme:
+* Would you like to add Custom Module?
+* what is your module Name?
+* Describe your custom module:
+* Would you like to add install file?
+* Would you like to add some hooks? hook_permission, hook_menu, hook_theme, hook_block_[info|view|configure]
 
 Optionally, To optimize your project using grunt after changes -
 Run below command from your sites/all/ folder where gruntfile.js is present
