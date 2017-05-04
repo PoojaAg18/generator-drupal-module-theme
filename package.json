@@ -1,0 +1,34 @@
+{
+  "name": "generator-drupal-module-theme",
+  "version": "0.1.0",
+  "description": "Drupal Custom module and Custom theme skeleton with basic code for webapp development Integrated with JSHint, sprite image, minification and concatenation and Grunt.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "files": [
+    "generators"
+  ],
+  "repository": "PoojaAg18/generator-drupal-module-theme",
+  "keywords": [
+    "Drupal",
+    "Bootstrap",
+    "Grunt",
+    "Jquery",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "homepage": "https://github.com/PoojaAg18/generator-drupal-module-theme",
+  "bugs": "https://github.com/PoojaAg18/generator-drupal-module-theme/issues",
+  "author": {
+    "name": "Pooja Agarwal",
+    "email": "poojaz2013@gmail.com",
+    "url": "https://github.com/PoojaAg18"
+  },
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/generator-drupal-module-theme"
+}
